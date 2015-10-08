@@ -1,1 +1,4 @@
 Trabajo en quipo con git
+
+El compilador se encarga de traducir el código fuente a código máquina, mientras que un intérprete se encarga de interpretar el código fuente como instrucciones de la máquina.
+
