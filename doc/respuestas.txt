@@ -2,3 +2,4 @@ Trabajo en quipo con git
 
 El compilador se encarga de traducir el código fuente a código máquina, mientras que un intérprete se encarga de interpretar el código fuente como instrucciones de la máquina.
 
+La principal diferencia es la sintaxis, el *.sh tiene órdenes de Bash y el *.rb tiene instrucciones para un intérprete de ruby. La primera línea del *.sh sólo indica que utilizas la bin de bash. 
